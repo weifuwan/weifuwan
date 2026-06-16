@@ -16,18 +16,6 @@
   <img src="https://img.shields.io/badge/Vibe-Coding-722ed1?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-<p>
-  <a href="https://github.com/weifuwan/seatunnel-web">
-    <img src="https://img.shields.io/github/stars/weifuwan/seatunnel-web?style=flat-square&label=SeaTunnel%20Web%20Stars&color=yellow" />
-  </a>
-  <a href="https://github.com/weifuwan">
-    <img src="https://img.shields.io/github/followers/weifuwan?style=flat-square&label=Followers&color=blue" />
-  </a>
-  <a href="https://github.com/weifuwan/seatunnel-web">
-    <img src="https://img.shields.io/badge/GitHub-SeaTunnel%20Web-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 ---
