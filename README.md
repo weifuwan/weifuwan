@@ -16,9 +16,7 @@
 
 **[Yak Ops](https://github.com/weifuwan/yak-ops) · 一站式 DataOps 平台**
 
-我希望把数据源、数据集成、数据开发、工作流、数据质量、资源管理、运维和数据消费这些原本分散的能力，放到一个真正好用的平台里。
-
-不是为了再造一个“大而全”的数据平台，而是希望把数据工程中重复、复杂、割裂的工作做得更简单。
+我想做的，是把原本复杂、割裂的数据工程能力重新组织起来，变成一个简单、连贯、真正好用的平台。
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e06d22a5-e74d-4d39-9c6d-2da76486940d" />
 
 
