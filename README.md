@@ -12,7 +12,6 @@ Java、React、Flink、SeaTunnel、Elasticsearch 都只是工具。
 我更关心的是：**想清楚要解决什么问题，然后把它真正做出来。**
 
 [![Yak Ops](https://img.shields.io/github/stars/weifuwan/yak-ops?style=flat&label=Yak%20Ops)](https://github.com/weifuwan/yak-ops)
-[![SeaTunnelX](https://img.shields.io/github/stars/weifuwan/SeaTunnelX?style=flat&label=SeaTunnelX)](https://github.com/weifuwan/SeaTunnelX)
 [![Yak Link Up](https://img.shields.io/github/stars/weifuwan/yak-link-up?style=flat&label=Yak%20Link%20Up)](https://github.com/weifuwan/yak-link-up)
 
 ---
