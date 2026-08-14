@@ -23,10 +23,14 @@ Java、React、Flink、SeaTunnel、Elasticsearch 都只是工具。
 我希望把数据源、数据集成、数据开发、工作流、数据质量、资源管理、运维和数据消费这些原本分散的能力，放到一个真正好用的平台里。
 
 不是为了再造一个“大而全”的数据平台，而是希望把数据工程中重复、复杂、割裂的工作做得更简单。
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e06d22a5-e74d-4d39-9c6d-2da76486940d" />
+
 
 **[Yak Link Up](https://github.com/weifuwan/yak-link-up) · 数据集成与执行能力**
 
 围绕数据同步、Connector 和任务执行持续探索，希望把不同数据源之间的数据流动变得更轻量、更容易扩展。
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/eced95ca-63c4-449d-ab69-319a9f85f834" />
+
 
 **SeaTunnel 生态 · 我长期关注的数据集成方向**
 
