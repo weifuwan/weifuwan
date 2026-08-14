@@ -32,14 +32,6 @@ Java、React、Flink、SeaTunnel、Elasticsearch 都只是工具。
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/eced95ca-63c4-449d-ab69-319a9f85f834" />
 
 
-**SeaTunnel 生态 · 我长期关注的数据集成方向**
-
-围绕 Apache SeaTunnel 做过运维平台、工具和相关实践，包括 [SeaTunnelX](https://github.com/weifuwan/SeaTunnelX)、[seatunnel-tools](https://github.com/weifuwan/seatunnel-tools) 等项目。
-
-**[AI Engineering](https://github.com/weifuwan/skills) · 用 AI 重新理解软件开发**
-
-我正在大量使用 AI 写代码、做产品、做设计，也在尝试沉淀可复用的 Skills。
-
 我不太关心“AI 能不能替代程序员”这种问题，我更关心：**有了 AI 之后，一个人究竟能把多复杂的东西真正做出来。**
 
 ---
