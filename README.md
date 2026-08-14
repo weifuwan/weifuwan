@@ -4,7 +4,7 @@
 
 所以我在做 **Yak Ops** —— 一个一站式 DataOps 平台。
 
-数据集成、开发、调度、质量、治理、运维，以及 AI Engineering，都是我长期关注和实践的方向。
+数据集成、开发、调度、质量、治理、运维、服务、BI，以及 AI Engineering，都是我长期关注和实践的方向。
 
 Java、React、Flink、SeaTunnel、Elasticsearch 都只是工具。
 我更关心的是：**想清楚要解决什么问题，然后把它真正做出来。**
