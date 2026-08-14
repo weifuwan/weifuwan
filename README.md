@@ -2,12 +2,10 @@
 
 我一直在折腾同一件事：**怎么把复杂的数据工程，变成简单、好用的产品。**
 
-所以我在做 **Yak Ops** —— 一个一站式 DataOps 平台。
+**Yak Ops 是我对这个问题的一次长期回答。** 我喜欢把复杂问题拆开，把关键信息提炼出来，把重复出现的规律抽象出来，再把这些东西重新组织成清晰的结构、系统和产品。
 
-数据集成、开发、调度、质量、治理、运维、服务、BI，以及 AI Engineering，都是我长期关注和实践的方向。
+技术只是手段。**我更关心的是把事情想明白、把复杂度消掉，然后真正把东西做出来。**
 
-Java、React、Flink、SeaTunnel、Elasticsearch 都只是工具。
-我更关心的是：**想清楚要解决什么问题，然后把它真正做出来。**
 
 [![Yak Ops](https://img.shields.io/github/stars/weifuwan/yak-ops?style=flat&label=Yak%20Ops)](https://github.com/weifuwan/yak-ops)
 [![Yak Link Up](https://img.shields.io/github/stars/weifuwan/yak-link-up?style=flat&label=Yak%20Link%20Up)](https://github.com/weifuwan/yak-link-up)
