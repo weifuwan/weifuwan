@@ -1,10 +1,6 @@
 # 魏福万
 
-我一直在折腾同一件事：**怎么把复杂的数据工程，变成简单、好用的产品。**
-
-**Yak Ops 是我对这个问题的一次长期回答。** 
-
-技术只是手段。**我更关心的是把事情想明白、把复杂度消掉，然后真正把东西做出来。**
+我一直在折腾同一件事：**有了 AI 之后，一个人究竟能把多复杂的东西真正做出来。**
 
 
 [![Yak Ops](https://img.shields.io/github/stars/weifuwan/yak-ops?style=flat&label=Yak%20Ops)](https://github.com/weifuwan/yak-ops)
@@ -16,19 +12,15 @@
 
 **[Yak Ops](https://github.com/weifuwan/yak-ops) · 一站式 DataOps 平台**
 
-我想做的，是把原本复杂、割裂的数据工程能力重新组织起来，变成一个简单、连贯、真正好用的平台。
 
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e06d22a5-e74d-4d39-9c6d-2da76486940d" />
 
 
 **[Yak Link Up](https://github.com/weifuwan/yak-link-up) · 数据集成与执行能力**
 
-围绕数据同步、Connector 和任务执行持续探索，希望把不同数据源之间的数据流动变得更轻量、更容易扩展。
 
 <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/eced95ca-63c4-449d-ab69-319a9f85f834" />
 
-
-我不太关心“AI 能不能替代程序员”这种问题，我更关心：**有了 AI 之后，一个人究竟能把多复杂的东西真正做出来。**
 
 ---
 
