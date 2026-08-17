@@ -1,6 +1,6 @@
 # 魏福万
 
-我一直在折腾同一件事：**有了 AI 之后，一个人究竟能把多复杂的东西真正做出来。**
+**有了 AI 之后，一个人究竟能把多复杂的东西真正做出来。**
 
 
 [![Yak Ops](https://img.shields.io/github/stars/weifuwan/yak-ops?style=flat&label=Yak%20Ops)](https://github.com/weifuwan/yak-ops)
