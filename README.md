@@ -2,7 +2,7 @@
 
 ## 魏福万 / weifuwan
 
-有了 AI 之后，一个人究竟能把多复杂的软件真正做出来，并长期把它维护成一个产品。
+Building Executable Taste — turning design judgment into systems that help AI build better software.
 
 ### 找到我
 主要阵地 · 公众号「蒸馏之术」
