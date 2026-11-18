@@ -2,8 +2,21 @@
 
 ## 魏福万 / weifuwan
 
-Building Executable Taste — turning design judgment into systems that help AI build better software.
+# Hi there 👋
 
+初时不过觉得代码有趣，后来一写便多年。本职于大数据，前端后端皆有所涉；大数据平台、数据中台，亦多有折腾。所学虽杂，所好惟一，不过造物而已。
+
+平日以 Java、TypeScript 为多，亦常写 Python、Scala；后端多用 Spring Boot，前端偏爱 React。于大数据一途，Spark、Flink 皆有所涉；亦喜研究数据开发、数据治理、工作流与平台工程。前端不止于写页面，亦会自己搭脚手架，琢磨工程结构与开发体验。
+
+比起堆砌技术，更喜欢把复杂的事情拆开来看。理清问题，厘清边界，抽丝剥茧，去繁存简，再将其落成真正可用的东西。代码如此，系统如此，产品亦如此。
+
+不尚空谈，偏爱实作。不拘一技，不困一器；见问题则思其所以然，见繁复则试图删繁就简。所造未必宏大，然皆出于真心；既已动手，便愿把它做好。
+
+目前唯一长期维护的开源项目，是 **Yak Ops**。
+
+一个关于数据开发、数据集成、工作流、数据治理与数据建模的 DataOps 平台。仍在生长，也仍在推倒重来。
+
+> 造物不息，琢磨不止。
 ### 找到我
 主要阵地 · 公众号「蒸馏之术」
 Gmail · [lefeng1805@gmail.com](mailto:lefeng1805@gmail.com)
